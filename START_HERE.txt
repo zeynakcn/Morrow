@@ -1,0 +1,23 @@
+MORROW — COMPLETE APP
+
+All updates are already included. No update installer is needed.
+
+1. Extract the ZIP and open morrow-app in VS Code.
+2. Open Terminal > New Terminal inside that folder.
+3. Run: npm run setup
+4. Open .env and enter your OPENAI_API_KEY, then save.
+5. Run: npm start
+6. Open http://localhost:3000
+
+Node.js 22.13+ required. No npm install needed for the included server.
+
+ALREADY USING MORROW?
+Stop the old app. Copy its .env and data folder into this new morrow-app
+folder before starting, to keep your API key and course progress. Keep the
+old folder as a backup. Use the same browser and port to retain quiz history.
+
+Includes: Milo at the top right, quiz time limits, quiz analysis, saved
+mistakes, printable cheat sheets, Next Question, analyse-all and daily
+practice updated from newly analysed uploads.
+
+See README.md for details and current limits.
